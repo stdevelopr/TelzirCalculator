@@ -80,7 +80,7 @@ export default function SelectBox() {
     if (full_values) {
       axios
         .post("/calculate", { DDD1, DDD2, time, faleMais, plan })
-        .then(resp => setPrice(resp.data.value));
+        .then(resp => setPrice(parseFloat(resp.data.value).toFixed(2)));
     } else {
       setPrice("");
     }
