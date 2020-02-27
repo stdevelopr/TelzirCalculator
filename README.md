@@ -10,7 +10,7 @@ enter the folder:\
 
 ## Running on docker
 
-- To run this app dockerized, you must have docker installed: (https://docs.docker.com/install/) \
+- To run this app dockerized, you must have docker installed: (https://docs.docker.com/install/)
 
 Just run:
 `sudo docker-compose up`
