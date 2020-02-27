@@ -44,7 +44,7 @@ Now open another console tab and enter the frontend folder:\
 install the requirements:
 `npm install`
 After installed the dependencies run:\
-`npm run build`\
+`npm run build`
 
 This command will run webpack and generate static files for your backend.\
 Running:
