@@ -8,7 +8,7 @@ clone this repo:\
 enter the folder:\
  `cd TelzirCalculator`
 
-### Running on docker
+## Running on docker
 
 - To run this app dockerized, you must have docker installed: (https://docs.docker.com/install/) \
 
