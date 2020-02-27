@@ -49,6 +49,6 @@ This command will run webpack and generate static files for your backend.\
 
 Running:
 `npm run watch` you cand edit your frontend and have the files automatically updated in the backend.\
-To see the effects Just refresh your browser\
+To see the effects just refresh your browser.
 
 - make sure that there is no cached files. Try a hard refresh.
