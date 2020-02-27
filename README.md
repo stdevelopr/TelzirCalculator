@@ -1,5 +1,3 @@
-Run your Flask backend application and edit your React frontend.
-
 # Instructions
 
 clone this repo:\
