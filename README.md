@@ -52,3 +52,12 @@ Running:
 To see the effects just refresh your browser.
 
 - make sure that there is no cached files. Try a hard refresh.
+
+---
+
+## Running Tests
+
+In the backend folder just run the command:
+`pytest`
+
+You can edit the tests in the file test_telzir.py
