@@ -42,11 +42,11 @@ http://0.0.0.0:5000/
 Now open another console tab and enter the frontend folder:\
 `cd ../frontend`\
 install the requirements:
-`npm install`
+`npm install`\
 After installed the dependencies run:\
 `npm run build`
-
 This command will run webpack and generate static files for your backend.\
+
 Running:
 `npm run watch` you cand edit your frontend and have the files automatically updated in the backend.\
 To see the effects Just refresh your browser\
