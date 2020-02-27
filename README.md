@@ -1,6 +1,6 @@
 Run your Flask backend application and edit your React frontend.
 
-### Instructions
+# Instructions
 
 clone this repo:\
  `git clone`
