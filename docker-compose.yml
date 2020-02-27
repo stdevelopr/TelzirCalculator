@@ -1,0 +1,11 @@
+# whe are using version 3 of docker-compose
+version: "3"
+
+# services to be controlled
+services:
+  telzir:
+    # build the service 'web' from the folder /web where there is a Dockerfile
+    build: ./Telzir/backend
+    # map the ports
+    ports:
+      - "5000:5000"
